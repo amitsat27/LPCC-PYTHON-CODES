@@ -1,0 +1,8 @@
+p=9
+q=r+s
+t=r+s
+u=q*t
+v=u
+x=b^2
+a=3+3
+z=q*a
